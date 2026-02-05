@@ -34,7 +34,6 @@
 
 ### 📫 联系方式
 
-- 📧 Email: geekcrafter@qq.com
 - 🐦 Twitter: [@GeekCrafter](https://x.com/GeekCrafter)
 
 ---
